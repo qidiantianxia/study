@@ -3,7 +3,7 @@
 技术学习与分享
 
 
-Java安装包
+# Java安装包
 
 百度网盘 链接: https://pan.baidu.com/s/19f1jPgknTO4pDBmqrzd8rQ 提取码: r231
 
@@ -29,6 +29,7 @@ intellij idea如何修改主题样式、字体
 https://jingyan.baidu.com/article/915fc41488f2a051384b206c.html
 
 
+# 前端
 
 vue
 
@@ -45,10 +46,13 @@ vue快速入门
 http://www.cnblogs.com/keepfool/p/5619070.html
 
 
+# 网络协议
+
 几种常用的网络协议
 https://www.cnblogs.com/liyanbin/p/5951869.html
 
 
+# SQL
 
 SQL第一范式 第二范式 第三范式 BC范式
 
@@ -105,7 +109,7 @@ or如果：select a from A where b=1 or c=1这种where里面不同字段进行or
 select a from A WHERE id>=xxxx limit 11;(将上一页的最大值通过where id> 进行预处理，然后分页)
 
 
-数据结构与算法
+# 数据结构与算法
 
 可视化算法
 
@@ -149,7 +153,7 @@ https://www.cnblogs.com/xiaoxi/p/6868087.html
 
 
 
-JVM
+# JVM
 
 Java程序编译和运行的过程Blog
 
@@ -167,14 +171,14 @@ https://www.cnblogs.com/luoxn28/p/5686794.html
 
 https://blog.csdn.net/soonfly/article/details/70147205
 
-并发
+# 并发
 
 如何扩展和优化线程池？
 
 https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247485466&idx=1&sn=a25ff6166ee36a611e08bb209eeb5edf&chksm=9bf4b8afac8331b948d08df3aaaba0ee4566fe155b3368b76734fe01bbaf05a67be57728943d&mpshare=1&scene=24&srcid=1031THjiorNHYhENAVBPj1CK#rd
 
 
-MVC
+# MVC
 
 Servlet
 
@@ -185,7 +189,7 @@ struts2
 SpringMVC
 
 
-Spring
+# Spring
 
 Spring 框架简介
 
@@ -196,7 +200,7 @@ Spring AOP的实现原理
 http://www.importnew.com/24305.html
 
 
-ORM
+# ORM
 
 hibernate
 
@@ -204,7 +208,7 @@ MyBatis
 
 
 
-SpringBoot
+# SpringBoot
 
 springboot之启动原理解析
 
@@ -225,7 +229,7 @@ https://blog.csdn.net/forMelo/article/details/79016952
 fastdfs等中间件（图片等文件存储）
 
 
-redis
+# redis
 
 Redis 总结Blog
 
@@ -237,7 +241,7 @@ https://github.com/qidiantianxia/redisdemo.git
 
 
 
-权限管理
+# 权限管理
 
 shiro
 
