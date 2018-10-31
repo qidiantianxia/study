@@ -16,6 +16,10 @@ IntelliJ IDEA如何将普通java项目变为web项目
 
 https://jingyan.baidu.com/article/08b6a591681e5414a8092212.html
 
+IntelliJ Idea 常用快捷键列表
+
+https://www.cnblogs.com/zhangpengshou/p/5366413.html
+
 idea设置jsp文件模板的方法
 
 https://blog.csdn.net/gnail_oug/article/details/79667746
