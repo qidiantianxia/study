@@ -29,23 +29,6 @@ intellij idea如何修改主题样式、字体
 https://jingyan.baidu.com/article/915fc41488f2a051384b206c.html
 
 
-# 前端
-
-vue
-
-Windows怎么下载vue.js
-
-https://jingyan.baidu.com/article/91f5db1b7172421c7e05e360.html
-
-vue教程
-
-https://cn.vuejs.org/v2/guide/
-
-vue快速入门
-
-http://www.cnblogs.com/keepfool/p/5619070.html
-
-
 # 网络协议
 
 几种常用的网络协议
@@ -173,10 +156,28 @@ https://blog.csdn.net/soonfly/article/details/70147205
 
 # 并发
 
+并发要考虑多线程同步的问题
+
 如何扩展和优化线程池？
 
 https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247485466&idx=1&sn=a25ff6166ee36a611e08bb209eeb5edf&chksm=9bf4b8afac8331b948d08df3aaaba0ee4566fe155b3368b76734fe01bbaf05a67be57728943d&mpshare=1&scene=24&srcid=1031THjiorNHYhENAVBPj1CK#rd
 
+
+# 前端
+
+vue
+
+Windows怎么下载vue.js
+
+https://jingyan.baidu.com/article/91f5db1b7172421c7e05e360.html
+
+vue教程
+
+https://cn.vuejs.org/v2/guide/
+
+vue快速入门
+
+http://www.cnblogs.com/keepfool/p/5619070.html
 
 # MVC
 
