@@ -58,6 +58,10 @@ MySQL explain执行计划和索引
 
 https://blog.csdn.net/wuseyukui/article/details/71512793
 
+SQL错误用法
+
+https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247485509&idx=1&sn=9d27c86645878904e93bd159128ee520&chksm=9bf4b8f0ac8331e67620911f7648d1729adfb58733752a09104b6918579c10c5801269f2a982&mpshare=1&scene=24&srcid=1031hH1xhwLhNFsDmD20yc1m#rd
+
 mysql水平拆分和垂直拆分
 
 MySQL主从复制与读写分离
@@ -160,6 +164,12 @@ https://www.cnblogs.com/luoxn28/p/5686794.html
 几张图轻松理解String.intern()
 
 https://blog.csdn.net/soonfly/article/details/70147205
+
+并发
+
+如何扩展和优化线程池？
+
+https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247485466&idx=1&sn=a25ff6166ee36a611e08bb209eeb5edf&chksm=9bf4b8afac8331b948d08df3aaaba0ee4566fe155b3368b76734fe01bbaf05a67be57728943d&mpshare=1&scene=24&srcid=1031THjiorNHYhENAVBPj1CK#rd
 
 
 MVC
