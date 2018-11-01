@@ -262,6 +262,12 @@ http://shiro.apache.org/
 
 https://www.cnblogs.com/zhouguanglin/archive/2018/02/27/8477807.html
 
+http://jinnianshilongnian.iteye.com/blog/2018936
+
+示例
+
+https://github.com/zhangkaitao/shiro-example
+
 
 超市管理系统
 
