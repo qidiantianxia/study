@@ -162,6 +162,11 @@ https://www.cnblogs.com/luoxn28/p/5686794.html
 
 https://blog.csdn.net/soonfly/article/details/70147205
 
+内存溢出(Memory Overflow)和内存泄露(Memory Leak)的区别
+
+http://www.cnblogs.com/fryy/archive/2013/11/27/3445281.html
+
+
 # 并发
 
 并发要考虑多线程同步的问题
