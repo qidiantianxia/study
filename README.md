@@ -248,6 +248,10 @@ fastdfs等中间件（图片等文件存储）
 
 https://www.cnblogs.com/ilinuxer/p/6580998.html
 
+史上最简单的 SpringCloud 教程 | 终章
+
+https://blog.csdn.net/forezp/article/details/70148833/
+
 
 # redis
 
