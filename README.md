@@ -219,6 +219,13 @@ hibernate
 
 MyBatis
 
+懒加载
+
+https://www.cnblogs.com/ysocean/p/7336945.html?utm_source=debugrun&utm_medium=referral
+
+一级缓存、二级缓存
+
+https://www.cnblogs.com/ysocean/p/7342498.html
 
 
 # SpringBoot
