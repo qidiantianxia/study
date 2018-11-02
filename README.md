@@ -274,6 +274,10 @@ https://blog.csdn.net/zhangweiwei2020/article/details/78646252
 
 # redis
 
+redis的五大数据类型实现原理
+
+https://www.cnblogs.com/ysocean/p/9102811.html
+
 Redis 总结Blog
 
 https://blog.csdn.net/hjm4702192/article/details/80518856
@@ -302,3 +306,11 @@ https://github.com/zhangkaitao/shiro-example
 超市管理系统
 
 https://github.com/qidiantianxia/adminweb.git
+
+# 优化与调试
+
+chrome浏览器自带的开发者工具查看http头
+
+https://segmentfault.com/a/1190000013924583
+
+https://blog.csdn.net/wangshuai6707/article/details/51350558
