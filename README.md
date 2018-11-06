@@ -87,6 +87,10 @@ https://www.cnblogs.com/liujiacai/p/7605612.html
 
 https://www.cnblogs.com/claireyuancy/p/7258314.html
 
+mysql数据库的DDL,DML, DCL, TCL
+
+https://www.cnblogs.com/wxishang/p/3443967.html
+
 存储过程，触发器之类的能避就全避免了吧，维护不方便，人员变动时，很多时候就忘了，时间一长全是定时炸弹
 
 update时，where语句尽量要走索引，不然会全表扫描，一般情况下，1G的数据至少10S（想想这可是update啊，锁住10S意味着啥）
