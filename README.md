@@ -195,6 +195,18 @@ https://www.cnblogs.com/lr393993507/p/5909804.html
 
 https://blog.csdn.net/dreamzuora/article/details/79527064
 
+Java线程(八)：锁对象Lock-同步问题更完美的处理方式
+
+https://blog.csdn.net/ghsau/article/details/7461369
+
+进程切换小结
+
+https://blog.csdn.net/u013456079/article/details/52584224
+
+进程切换分析篇
+
+https://blog.csdn.net/xiaohuima_dong/article/details/44804393
+
 Quartz
 
 https://blog.csdn.net/w405722907/article/details/72458059
@@ -240,6 +252,10 @@ https://www.ibm.com/developerworks/cn/java/wa-spring1/
 Spring AOP的实现原理
 
 http://www.importnew.com/24305.html
+
+Spring IOC和AOP 原理彻底搞懂
+
+https://blog.csdn.net/luoshenfu001/article/details/5816408
 
 
 # ORM
@@ -338,6 +354,14 @@ chrome浏览器自带的开发者工具查看http头
 https://segmentfault.com/a/1190000013924583
 
 https://blog.csdn.net/wangshuai6707/article/details/51350558
+
+Throwable、Error、Exception、RuntimeException 区别 联系
+
+https://www.cnblogs.com/zhihaowu/p/8877225.html
+
+用java语言写如何写一个7进制数字转化成10进制
+
+https://zhidao.baidu.com/question/211061176.html
 
 
 # 架构师
