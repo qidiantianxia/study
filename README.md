@@ -2,6 +2,16 @@
 # JavaLearning
 技术学习与分享
 
+# 架构师
+
+架构师之路总结
+
+https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
+
+年薪40万的架构师之路，你不得不了解的技术栈
+
+https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
+
 
 # Java安装包
 
