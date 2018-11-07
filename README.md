@@ -12,6 +12,10 @@ github怎样在一个仓库中创建多个项目
 
 IDE
 
+IDEA的安装
+
+https://blog.csdn.net/newabcc/article/details/80601933
+
 IntelliJ IDEA如何将普通java项目变为web项目
 
 https://jingyan.baidu.com/article/08b6a591681e5414a8092212.html
