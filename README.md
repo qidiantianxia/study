@@ -191,6 +191,10 @@ Java高并发，如何解决，什么方式解决
 
 https://www.cnblogs.com/lr393993507/p/5909804.html
 
+如何解决多线程并发访问一个资源的安全性问题？
+
+https://blog.csdn.net/dreamzuora/article/details/79527064
+
 Quartz
 
 https://blog.csdn.net/w405722907/article/details/72458059
