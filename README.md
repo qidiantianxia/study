@@ -2,16 +2,6 @@
 # JavaLearning
 技术学习与分享
 
-# 架构师
-
-架构师之路总结
-
-https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
-
-年薪40万的架构师之路，你不得不了解的技术栈
-
-https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
-
 
 # Java安装包
 
@@ -197,6 +187,10 @@ https://www.jianshu.com/p/90caf813682d
 
 https://mp.weixin.qq.com/s?__biz=MzAxNjM2MTk0Ng==&mid=2247485466&idx=1&sn=a25ff6166ee36a611e08bb209eeb5edf&chksm=9bf4b8afac8331b948d08df3aaaba0ee4566fe155b3368b76734fe01bbaf05a67be57728943d&mpshare=1&scene=24&srcid=1031THjiorNHYhENAVBPj1CK#rd
 
+Java高并发，如何解决，什么方式解决
+
+https://www.cnblogs.com/lr393993507/p/5909804.html
+
 Quartz
 
 https://blog.csdn.net/w405722907/article/details/72458059
@@ -340,3 +334,14 @@ chrome浏览器自带的开发者工具查看http头
 https://segmentfault.com/a/1190000013924583
 
 https://blog.csdn.net/wangshuai6707/article/details/51350558
+
+
+# 架构师
+
+架构师之路总结
+
+https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
+
+年薪40万的架构师之路，你不得不了解的技术栈
+
+https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
