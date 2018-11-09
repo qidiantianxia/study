@@ -334,6 +334,10 @@ Spring基于注解整合Redis项目
 
 https://github.com/qidiantianxia/redisdemo.git
 
+Redis和RedisClient 官网下载方式
+
+http://blog.51cto.com/zhuws/2299945
+
 
 
 # 权限管理
