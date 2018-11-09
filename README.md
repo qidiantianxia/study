@@ -2,6 +2,12 @@
 # JavaLearning
 技术学习与分享
 
+# 系统安装
+
+如何重装系统，没有光驱的，要装win7的？
+
+https://www.zhihu.com/question/23042197
+
 怎样解决装系统选中的磁盘采用的是GPT分区形式
 
 https://jingyan.baidu.com/article/7c6fb42862d63a80642c90b8.html
