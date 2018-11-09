@@ -174,6 +174,11 @@ https://www.cnblogs.com/xiaoxi/p/6868087.html
 
 实现：索引InnoDB和MyISAM的数据结构
 
+# 源码分析
+
+深入理解Java中的String
+
+https://www.cnblogs.com/xiaoxi/p/6036701.html#undefined
 
 
 # JVM
