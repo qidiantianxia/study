@@ -4,6 +4,14 @@
 
 # 系统安装
 
+VMWare
+
+https://my.vmware.com/cn/web/vmware/downloads
+
+CentOS
+
+https://www.centos.org/download/
+
 如何重装系统，没有光驱的，要装win7的？
 
 https://www.zhihu.com/question/23042197
@@ -12,9 +20,25 @@ https://www.zhihu.com/question/23042197
 
 https://jingyan.baidu.com/article/7c6fb42862d63a80642c90b8.html
 
+Linux 教程
+
+http://www.runoob.com/linux/linux-tutorial.html
+
 # 安装Git
 
 https://blog.csdn.net/sishen47k/article/details/80211002
+
+Git可视化教程——Git Gui的使用
+
+https://blog.csdn.net/qq_34842671/article/details/70916587
+
+git 本地分支与远程分支关联的一种方法
+
+https://www.cnblogs.com/a-flydog/p/5520999.html
+
+study
+
+http://www.cnblogs.com/cposture/category/642672.html
 
 
 # Java安装包
@@ -66,15 +90,15 @@ intellij idea如何修改主题样式、字体
 
 https://jingyan.baidu.com/article/915fc41488f2a051384b206c.html
 
-git 本地分支与远程分支关联的一种方法
-
-https://www.cnblogs.com/a-flydog/p/5520999.html
-
 
 # 网络协议
 
 几种常用的网络协议
 https://www.cnblogs.com/liyanbin/p/5951869.html
+
+iptables详解
+
+http://blog.chinaunix.net/uid-26495963-id-3279216.html
 
 
 # SQL
@@ -444,6 +468,12 @@ https://zhidao.baidu.com/question/211061176.html
 
 # Java
 
+一位资深程序员大牛给予Java初学者的学习路线建议
+
+https://www.cnblogs.com/java1024/p/9018528.html
+
+https://www.liaoxuefeng.com/
+
 100+经典Java面试题及答案解析
 
 https://www.cnblogs.com/pureEve/p/6546280.html
@@ -451,6 +481,8 @@ https://www.cnblogs.com/pureEve/p/6546280.html
 https://www.zhihu.com/question/60949531
 
 https://blog.csdn.net/hope900/article/details/78647466
+
+https://www.cnblogs.com/java1024/p/7685400.html
 
 # 架构师
 
