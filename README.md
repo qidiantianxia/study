@@ -29,6 +29,12 @@ java环境变量的配置步骤及其作用详细解读
 
 https://jingyan.baidu.com/article/4ae03de320d99f3eff9e6bfd.html
 
+eclipse
+
+eclipse插件 properties Editor离线安装
+
+https://blog.csdn.net/diyu122222/article/details/78082691
+
 
 IDE
 
@@ -76,6 +82,10 @@ https://blog.csdn.net/douunderstand/article/details/70159540
 MySQL explain执行计划和索引
 
 https://blog.csdn.net/wuseyukui/article/details/71512793
+
+7款经典的MySQL客户端软件
+
+https://blog.csdn.net/lidujun1028/article/details/54616000
 
 SQL错误用法
 
@@ -179,6 +189,14 @@ https://www.cnblogs.com/xiaoxi/p/6868087.html
 深入理解Java中的String
 
 https://www.cnblogs.com/xiaoxi/p/6036701.html#undefined
+
+浅谈Java中的对象和引用
+
+http://www.cnblogs.com/dolphin0520/p/3592498.html
+
+字符、字节的概念及其区别
+
+http://blog.sina.com.cn/s/blog_6ede15b10100nrxp.html
 
 
 # JVM
@@ -406,3 +424,9 @@ https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
 年薪40万的架构师之路，你不得不了解的技术栈
 
 https://baijiahao.baidu.com/s?id=1590207120160725337&wfr=spider&for=pc
+
+# 产品经理
+
+产品经理小技术（三）：二维码这把利刃，产品应该用到极致
+
+https://www.jianshu.com/p/60f33497c8c7
