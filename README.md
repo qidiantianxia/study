@@ -13,6 +13,12 @@ https://blog.csdn.net/sishen47k/article/details/80211002
 
 github怎样在一个仓库中创建多个项目
 
+JDK
+
+java环境变量的配置步骤及其作用详细解读
+
+https://jingyan.baidu.com/article/4ae03de320d99f3eff9e6bfd.html
+
 
 IDE
 
