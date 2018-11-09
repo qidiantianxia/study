@@ -6,7 +6,15 @@
 
 VMWare
 
+Linux系统安装（VMware 14+ CentOS 7，2018年最新）
+
+https://blog.csdn.net/qq_39750782/article/details/79828213
+
 https://my.vmware.com/cn/web/vmware/downloads
+
+VMware提示此主机支持Intel VT-x,但Intel VT-x处于禁用状态怎么解决
+
+http://www.xitongcheng.com/jiaocheng/xtazjc_article_38955.html
 
 CentOS
 
