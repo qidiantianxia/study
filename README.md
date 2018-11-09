@@ -31,6 +31,10 @@ https://jingyan.baidu.com/article/4ae03de320d99f3eff9e6bfd.html
 
 eclipse
 
+手把手教你在Eclipse上创建一个Maven+Spring MVC的HelloWord项目
+
+https://blog.csdn.net/u012660464/article/details/53199439
+
 eclipse插件 properties Editor离线安装
 
 https://blog.csdn.net/diyu122222/article/details/78082691
@@ -148,6 +152,10 @@ http://www.cnblogs.com/onepixel/articles/7674659.html
 
 https://www.cs.usfca.edu/~galles/visualization/StackArray.html
 
+Java集合类: Set、List、Map、Queue使用场景梳理
+
+https://www.cnblogs.com/LittleHann/p/3690187.html
+
 算法与设计思维(对于未知变量：时间复杂度O(n)和空间复杂度)
 
 1.n是否为2的整数幂
@@ -198,6 +206,13 @@ http://www.cnblogs.com/dolphin0520/p/3592498.html
 
 http://blog.sina.com.cn/s/blog_6ede15b10100nrxp.html
 
+sendRedirect和forward方法的区别
+
+https://www.cnblogs.com/mzzy/p/4724428.html
+
+java中的静态变量、静态方法与静态代码块详解与初始化顺序
+
+https://www.cnblogs.com/lubocsu/p/5099558.html
 
 # JVM
 
@@ -245,6 +260,10 @@ https://blog.csdn.net/dreamzuora/article/details/79527064
 Java线程(八)：锁对象Lock-同步问题更完美的处理方式
 
 https://blog.csdn.net/ghsau/article/details/7461369
+
+Java并发编程：volatile关键字解析
+
+https://www.cnblogs.com/dolphin0520/p/3920373.html
 
 进程切换小结
 
@@ -377,6 +396,15 @@ Redis和RedisClient 官网下载方式
 
 http://blog.51cto.com/zhuws/2299945
 
+# mongodb
+
+MongoDB 教程
+
+https://docs.mongodb.com/manual/introduction/
+
+http://www.runoob.com/mongodb/mongodb-tutorial.html
+
+
 
 
 # 权限管理
@@ -414,6 +442,15 @@ https://www.cnblogs.com/zhihaowu/p/8877225.html
 
 https://zhidao.baidu.com/question/211061176.html
 
+# Java
+
+100+经典Java面试题及答案解析
+
+https://www.cnblogs.com/pureEve/p/6546280.html
+
+https://www.zhihu.com/question/60949531
+
+https://blog.csdn.net/hope900/article/details/78647466
 
 # 架构师
 
