@@ -2,6 +2,10 @@
 # JavaLearning
 技术学习与分享
 
+怎样解决装系统选中的磁盘采用的是GPT分区形式
+
+https://jingyan.baidu.com/article/7c6fb42862d63a80642c90b8.html
+
 # 安装Git
 
 https://blog.csdn.net/sishen47k/article/details/80211002
