@@ -116,6 +116,10 @@ intellij IDEA 如何设置默认的maven配置？
 
 https://www.oschina.net/question/948439_243781
 
+Idea中Springboot热部署无效解决方法
+
+https://yq.aliyun.com/ziliao/466997
+
 
 # 网络协议
 
