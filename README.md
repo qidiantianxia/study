@@ -74,6 +74,16 @@ https://blog.csdn.net/diyu122222/article/details/78082691
 
 IDE
 
+https://www.w3cschool.cn/intellij_idea_doc/intellij_idea_doc-34852d55.html
+
+适合初学者的IDEA使用教程
+
+https://www.jianshu.com/p/0f6a513e20c8
+
+IntelliJ IDEA使用教程（很全）
+
+https://www.cnblogs.com/yjd_hycf_space/p/7483921.html
+
 IDEA的安装
 
 https://blog.csdn.net/newabcc/article/details/80601933
