@@ -108,6 +108,10 @@ intellij idea如何修改主题样式、字体
 
 https://jingyan.baidu.com/article/915fc41488f2a051384b206c.html
 
+IDEA创建Maven工程多模块继承和聚合创建(详解)
+
+https://jingyan.baidu.com/article/48b37f8dc9c54c1a64648820.html
+
 
 # 网络协议
 
