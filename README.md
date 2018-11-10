@@ -120,6 +120,9 @@ Idea中Springboot热部署无效解决方法
 
 https://yq.aliyun.com/ziliao/466997
 
+IntelliJ IDEA教程之如何clean或者install Maven项目
+
+https://blog.csdn.net/a772304419/article/details/79663445
 
 # 网络协议
 
