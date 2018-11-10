@@ -112,6 +112,10 @@ IDEA创建Maven工程多模块继承和聚合创建(详解)
 
 https://jingyan.baidu.com/article/48b37f8dc9c54c1a64648820.html
 
+intellij IDEA 如何设置默认的maven配置？
+
+https://www.oschina.net/question/948439_243781
+
 
 # 网络协议
 
