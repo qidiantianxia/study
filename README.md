@@ -108,6 +108,8 @@ intellij idea如何修改主题样式、字体
 
 https://jingyan.baidu.com/article/915fc41488f2a051384b206c.html
 
+# Maven
+
 IDEA创建Maven工程多模块继承和聚合创建(详解)
 
 https://jingyan.baidu.com/article/48b37f8dc9c54c1a64648820.html
@@ -123,6 +125,10 @@ https://yq.aliyun.com/ziliao/466997
 IntelliJ IDEA教程之如何clean或者install Maven项目
 
 https://blog.csdn.net/a772304419/article/details/79663445
+
+用maven profile实现环境配置切换
+
+https://segmentfault.com/a/1190000012247045
 
 # 网络协议
 
