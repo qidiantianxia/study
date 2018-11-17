@@ -1,0 +1,21 @@
+# MySQL
+链接
+https://jingyan.baidu.com/article/3aed632e19b5e8701080918f.html
+
+Win+R 运行输入services.msc 进入服务 查看mysql的服务或启动关闭
+Win+R 进入DOS窗口 net start mysql(根据上步mysql的名称)启动mysql服务,关闭命令net stop mysql(同理)
+>mysql -hlocalhost -uroot -proot进入mysql数据库
+
+mysql>show databases;显示所有数据库
+mysql>exit;退出数据库
+
+默认情况下mysql启动自动提交模式（变量autocommit=on），执行DML操作的时候，MySQL立即隐式提交事物（Implicit Commit）
+查看autocommit模式，变量autocommit分为会话系统变量和全局系统变量
+mysql>show session variables like 'autocommit';
+mysql>show global variables like 'autocommit';
+//关闭自动提交
+mysql>set session autocommit=0;
+mysql>set global autocommit=0;
+会话系统变量或全局系统变量，只对当前实例有效，如果mysql服务重启的化，这些设置就会失效，如果要永久生效，就必须在配置文件中修改设置
+[mysqlId]
+autocommit=0
